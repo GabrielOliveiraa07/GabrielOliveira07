@@ -12,9 +12,9 @@ stats,anuraghazra.github.io)
 
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-948540349)
+- [Instagram](https://www.instagram.com/gabrieelolive__/)
 
 
 
 
-
- [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-948540349?utm_source=share_via&utm_content=profile&utm_medium=member_android)</
+ 
