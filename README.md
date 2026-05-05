@@ -1,10 +1,20 @@
-Olá! Sou Gabriel Oliveira, Desenvolvedor Front-End.
+<h1>Olá! Bem-vindo ao meu GitHub</h1>
 
-Atualmente, estou aprimorando minhas habilidades em HTML e CSS com projetos práticos, e dando os primeiros passos em JavaScript e React para construir aplicações dinâmicas e interativas.
-Bem-vindo ao meu repositório! 🚀
+ Sou Gabriel Oliveira, Desenvolvedor Front-End. Atualmente, estou aprimorando minhas habilidades em HTML e CSS com projetos práticos, e dando os primeiros passos em JavaScript e React para construir aplicações dinâmicas e interativas.
 <br>
 <br>
-[![gabrieloliveira stats](https://github-readme-stats.vercel.app/api?username=gabrieloliveiraa07)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveiraa07&exclude_repo=github-readme-
+stats,anuraghazra.github.io)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveiraa07&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<h1>Conecte-se Comigo</h1>
+
+
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-948540349)
+
+
+
+
+
+ [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-948540349?utm_source=share_via&utm_content=profile&utm_medium=member_android)</
